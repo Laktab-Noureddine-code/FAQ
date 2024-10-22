@@ -6,10 +6,12 @@ This project was built to show how you can implement a Frequently Asked Question
 <h2>Features</h2>
 This project shows how to:
 
-Use React's useState hook to manage FAQ item selection
-Implement single selection mode where only one question is expanded at a time
-Add multiple selection mode, allowing users to expand and collapse multiple questions
-Dynamically update the UI based on user interactions
-Customize styles for different selection modes
-Create reusable React components for FAQ sections
-Toggle between single and multiple selection modes with a button
+<ul>
+  <li>Use React's <code>useState</code> hook to manage FAQ item selection</li>
+  <li>Implement single selection mode where only one question is expanded at a time</li>
+  <li>Add multiple selection mode, allowing users to expand and collapse multiple questions</li>
+  <li>Dynamically update the UI based on user interactions</li>
+  <li>Customize styles for different selection modes</li>
+  <li>Create reusable React components for FAQ sections</li>
+  <li>Toggle between single and multiple selection modes with a button</li>
+</ul>
