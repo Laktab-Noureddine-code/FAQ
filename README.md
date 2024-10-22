@@ -1,9 +1,9 @@
-#React FAQ Project with Multiple Selection
-##A fully functional FAQ example project written in React, demonstrating how to create an interactive FAQ page with both single and multiple selection modes.
+<h1>React FAQ Project with Multiple Selection</h1>
+<h2>A fully functional FAQ example project written in React, demonstrating how to create an interactive FAQ page with both single and multiple selection modes.</h2>
 
 This project was built to show how you can implement a Frequently Asked Questions (FAQ) feature with simple state management using useState. You can enable multiple question selection, giving users flexibility to view multiple answers simultaneously.
 
-##Features
+<h2>Features</h2>
 This project shows how to:
 
 Use React's useState hook to manage FAQ item selection
